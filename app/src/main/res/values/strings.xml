@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackgroundProcess_Runner</string>
+    <string name="background_process_runner">Background Process Runner</string>
+</resources>
